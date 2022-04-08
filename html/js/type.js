@@ -1,0 +1,1 @@
+const DoomElement = document.querySelector("#text");
