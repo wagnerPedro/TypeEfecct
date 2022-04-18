@@ -22,3 +22,5 @@ function showText(DoomElement, text, interval) {
 }
 
 showText(DoomElement, text, interval);
+
+#me siga no instagram: https://instagram.com./wagner.pedro0
